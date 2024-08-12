@@ -1,3 +1,0 @@
-/home/zlh/code/Visual Training 1/task 2/build/CMakeFiles/apple_detection.dir
-/home/zlh/code/Visual Training 1/task 2/build/CMakeFiles/edit_cache.dir
-/home/zlh/code/Visual Training 1/task 2/build/CMakeFiles/rebuild_cache.dir
