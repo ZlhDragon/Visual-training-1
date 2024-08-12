@@ -1,3 +1,0 @@
-/home/zlh/code/Visual Training 1/task 3/build/CMakeFiles/license_plate_detection.dir
-/home/zlh/code/Visual Training 1/task 3/build/CMakeFiles/edit_cache.dir
-/home/zlh/code/Visual Training 1/task 3/build/CMakeFiles/rebuild_cache.dir
